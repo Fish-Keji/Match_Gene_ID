@@ -1,1 +1,3 @@
-匹配基因名与基因描述，合并各基因转录本的相同描述
+Map gene number with gene description.
+Merge same transcripts descriptions of a gene.
+Generate a non-redundance GrapeV2 annotation Excel.
